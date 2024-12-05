@@ -1,7 +1,10 @@
-﻿![Linux Turtorial](/Images/Profile.png)
+﻿## **Linux**
+<br>
+
+![Linux Turtorial](/Images/Profile.png)
 
 
-## **Linux**
+
 
 ### Commands
 
