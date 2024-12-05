@@ -180,7 +180,7 @@ File permissions control who can read, write, or execute a file. In Unix-like sy
 
 
 
-#### 1. **Using `chmod` Command**
+#### **Using `chmod` Command**
 
 The `chmod` command is used to change file permissions. It can be used in two ways: symbolic and numeric.
 
@@ -240,7 +240,7 @@ chmod [permissions] file
   chmod 754 file.txt
   ```
 
-#### 2. **Changing Permissions Recursively**
+#### **Changing Permissions Recursively**
 
 To change permissions for all files and directories within a directory, use the `-R` option.
 
@@ -250,7 +250,7 @@ chmod -R 755 /path/to/directory
 ```
 This command sets read, write, and execute permissions for the user and read and execute permissions for the group and others on all files and directories within the specified directory.
 
-#### 3. **Checking Permissions**
+#### **Checking Permissions**
 
 To check the current permissions of a file, use the `ls -l` command.
 
@@ -449,7 +449,7 @@ In addition to standard file permissions (read, write, execute), Unix-like syste
 
 ---
 
-<br><br>
+
 
 | **Command** | **Flags**             | **Description**                                      |
 |-------------|-----------------------|------------------------------------------------------|
